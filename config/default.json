@@ -1,0 +1,8 @@
+{
+    "jwtPrivateKey": "",
+    "MongoDB": {
+        "username": "",
+        "database": "",
+        "password": ""
+    }
+}

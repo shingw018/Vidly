@@ -1,0 +1,6 @@
+{
+  "MongoDB": {
+    "username": "shing",
+    "database": "dbname"
+  }
+}
